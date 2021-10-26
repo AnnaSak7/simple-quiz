@@ -1,0 +1,23 @@
+[
+  {
+    "question": "Are you a dog?",
+    "answers": [
+      { "option": "What!? No!", "answer": "true" },
+      { "option": "Hell yeah!", "answer": "false" }
+    ]
+  },
+  {
+    "question": "Who is 🦁?",
+    "answers": [
+      { "option": "Lion", "answer": "true" },
+      { "option": "Tiger", "answer": "false" }
+    ]
+  },
+  {
+    "question": "Is your blood blue",
+    "answers": [
+      { "option": "No,it's red", "answer": "true" },
+      { "option": "Of course!", "answer": "false" }
+    ]
+  }
+]
